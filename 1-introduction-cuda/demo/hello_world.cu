@@ -3,7 +3,7 @@
 #include <cstdio>
 
 __global__ void hello_world() {
-  printf("hello world!\n");
+  printf("Hello World!\n");
 }
 
 int main(int argc, char** argv) {
